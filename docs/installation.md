@@ -53,7 +53,7 @@ Installation script will:
 - Open Samba/Transmission port
 - Add Armnas to startup (cron)
 
-### How installation script work?
+### How Uninstallation script work?
 
 Uninstallation script will: 
 - Remove armnas user if exist 
